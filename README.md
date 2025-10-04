@@ -12,3 +12,5 @@ A responsive Shein-themed landing page with TikTok optimization and girly partic
 
 ## Files
 - `index.html` - Main landing page with cysrd tracking link
+
+
